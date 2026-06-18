@@ -4,7 +4,7 @@
 
 <p align="center">
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Sasindu+Akalanka;Information+Systems+Engineering+Undergraduate;Full-Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Sasindu+Akalanka;Information+Systems+Engineering+Undergraduate;Full-Stack+Developer+%7C+Agile" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
