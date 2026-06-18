@@ -78,16 +78,18 @@ goal       : Software Engineering Internship → Enterprise Cloud Systems Archit
 
 ### 🔥 Streak Stats  
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=SasinduAkalanka&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" />
+<!-- Make sure to replace YOUR_ACTUAL_USERNAME with your exact GitHub username -->
+<img src="https://streak-stats.demolab.com?user=sasindu003&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
 </div>
 
 ### 🎯 Activity Overview  
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SasinduAkalanka&theme=radical" alt="Activity Overview" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SasinduAkalanka&theme=radical" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SasinduAkalanka&theme=radical" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SasinduAkalanka&theme=radical" alt="Stats" />
+<!-- Core GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=sasindu003&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu003&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
