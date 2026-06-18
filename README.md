@@ -14,9 +14,9 @@
 
 ---
 
-## whoami
+## 
 
-2nd-year undergraduate student at **SLIIT** specialising in **Information Systems Engineering**. I am a passionate full-stack developer and software engineer focused on building robust backend systems, scalable cloud infrastructure, and data-driven intelligent applications.
+3nd-year undergraduate student at **SLIIT** specialising in **Information Systems Engineering**. I am a passionate full-stack developer and software engineer focused on building robust backend systems, scalable cloud infrastructure, and data-driven intelligent applications.
 
 I specialize in designing enterprise-ready applications with Java (Spring Boot) and developing predictive machine learning systems in Python. I work efficiently utilizing modern development environments like the Antigravity IDE, prioritizing clean system design, database performance, and structured software architecture over boilerplate.
 
