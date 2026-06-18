@@ -1,39 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sasindu Akalanka</h1>
-<h3 align="center">A Full-Stack Developer & Information Systems Engineering Student from Sri Lanka 🇱🇰</h3>
+# Sasindu Akalanka Digoarachchi 🚀
+**Information Systems Engineering Undergraduate | Software Developer**
 
-- 🔭 I’m currently studying at **SLIIT (Sri Lanka Institute of Information Technology)**
+I am an Information Systems Engineering student at SLIIT, specializing in robust backend development, cloud infrastructure design, and practical machine learning applications. My engineering philosophy centers on writing clean, maintainable code and designing scalable system architectures.
 
-- 🌱 I’m specializing in **Information Systems Engineering**
+---
 
-- 💻 I’m currently working on **EduFlow** (an LMS built with Spring Boot & AWS) and diving deeper into **Machine Learning**
+## 🛠️ Technical Expertise
 
-- 🎨 In my free time, I enjoy **graphic design, fitness, and gaming**
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Java Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=flat-square&logo=oracle&logoColor=white) |
+| **Databases & Storage** | ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Cloud & DevOps** | ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+| **Hardware & IoT** | ![Arduino / ESP8266](https://img.shields.io/badge/Arduino_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sasindu-akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://fb.com/sasindu-akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/></a>
+---
+
+## 🚀 Highlighted Projects
+
+### 🌟 [EduFlow — Learning Management System](https://github.com/YOUR_GITHUB_USERNAME/eduflow)
+* **Backend Architecture:** Developed using **Java Spring Boot** following enterprise design patterns.
+* **Cloud & Infrastructure:** Configured and deployed on an **AWS EC2** instance, utilizing **Cloudflare R2** object storage for secure, low-latency asset management.
+
+### 🧠 [AI-Based Stress Level Prediction System](https://github.com/YOUR_GITHUB_USERNAME/stress-prediction)
+* **Core Logic:** Built a predictive machine learning pipeline using **Python** to analyze behavioral data streams from digital devices.
+* **Focus:** Data preprocessing, predictive modeling, and algorithm evaluation.
+
+### 📑 [Insurance Claims and Plan Management System](https://github.com/YOUR_GITHUB_USERNAME/insurance-system)
+* **Enterprise Features:** Engineered transactional workflows using **Spring Boot** integrated with an **MS SQL** relational database backend.
+* **Focus:** Schema design, data integrity, and strict access control mechanisms.
+
+### 🏨 [Hotel Room Reservation System](https://github.com/YOUR_GITHUB_USERNAME/hotel-reservation)
+* **Core Web Concepts:** Implemented web routing, session management, and server-side rendering using native **Java Servlets**.
+
+### 🌐 [IoT Water Monitoring System](https://github.com/YOUR_GITHUB_USERNAME/water-monitoring)
+* **Hardware Integration:** Formulated firmware logic using the **Arduino IDE** for an **ESP8266** microcontroller to process real-time sensor data telemetry.
+
+---
+
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasindu003&show_icons=true&locale=en" alt="sasindu003" /></p>
+## 🤝 Contact & Professional Networks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasindu003&" alt="sasindu003" /></p>
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **Institutional Email:** [Your SLIIT or Professional Email Address]
+* **Portfolio / Graphic Design Work:** [Link to your design portfolio if applicable]
