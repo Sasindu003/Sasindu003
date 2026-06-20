@@ -38,10 +38,10 @@ goal       : Software Engineering Internship → Enterprise Cloud Systems Archit
 ## 🛠️ Technical Stack
 
 **Backend & Enterprise Architecture**
-* ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-* ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-* ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-* ![Java Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=flat-square&logo=oracle&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+ ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+ ![Java Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=flat-square&logo=oracle&logoColor=white)
 
 **Data Science & Machine Learning**
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
