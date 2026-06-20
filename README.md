@@ -84,14 +84,25 @@ goal       : Software Engineering Internship → Enterprise Cloud Systems Archit
 
 ### 🎯 Activity Overview  
 
-<div align="center">
-<!-- Core GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=sasindu003&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu003&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasindu003&theme=github_dark" alt="Activity Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasindu003&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasindu003&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasindu003&theme=github_dark" alt="Stats" />
 </div>
 
+---
+<!--
+
+<div align="center">
+<!-- Core GitHub Stats Card 
+<img src="https://github-readme-stats.vercel.app/api?username=sasindu003&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+
+<!-- Top Languages Card 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu003&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+</div>
+-->
 ---
 
 <div align="center">
