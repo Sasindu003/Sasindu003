@@ -24,9 +24,9 @@ I specialize in designing enterprise-ready applications with Java (Spring Boot) 
 location   : Galle, Sri Lanka 🇱🇰
 degree     : BSc (Hons) in Information Technology - Information Systems Engineering
 institution: Sri Lanka Institute of Information Technology (SLIIT)
-core_focus : Full-Stack Development · Backend Systems · Machine Learning
+core_focus : Full-Stack Development · Backend Systems · Agile
 current_dev: EduFlow (LMS with Spring Boot & Cloudflare R2)
-goal       : Software Engineering Internship → Enterprise Cloud Systems Architect
+goal       : Software Engineering Internship → Enterprise Systems Architect
 ```
 
 ---
@@ -39,7 +39,7 @@ goal       : Software Engineering Internship → Enterprise Cloud Systems Archit
 
 **Backend & Enterprise Architecture**
  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+ [Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
  ![Java Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=flat-square&logo=oracle&logoColor=white)
 
